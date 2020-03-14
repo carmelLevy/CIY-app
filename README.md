@@ -13,7 +13,7 @@ currently it scans - http://allrecipes.co.uk, https://www.bbcgoodfood.com for ge
 samples.
 
 # Authors
-Aviram Itzhak, Lior Forer, Carmel Levi, Hauffman Hagai, Shani Shapp
+Carmel Levy, Lior Forer
 
 
 ![Image description](‏‏ciy.PNG)
